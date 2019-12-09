@@ -1,3 +1,8 @@
+---
+layout: default
+title: Open Source Juggling Project
+---
+
 # Open Source Juggling Project
 
 ## Jugglers Around the World, 
