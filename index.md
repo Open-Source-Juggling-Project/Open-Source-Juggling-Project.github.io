@@ -10,5 +10,3 @@ title: Open Source Juggling Project
 ## For Jugglers, By Jugglers.
 
 This project is still in planning stages.
-
-Please folow the link in the right hand corner if you want to cotribute.
