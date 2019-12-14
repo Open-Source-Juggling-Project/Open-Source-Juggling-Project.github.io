@@ -8,3 +8,7 @@ title: Open Source Juggling Project
 ## Jugglers Around the World, 
 ## Working Together to Make Awesome Tools, 
 ## For Jugglers, By Jugglers.
+
+This project is still in planning stages.
+
+Please folow the link in the right hand corner if you want to cotribute.
