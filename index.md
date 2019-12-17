@@ -9,4 +9,8 @@ title: Open Source Juggling Project
 ## Working Together to Make Awesome Tools, 
 ## For Jugglers, By Jugglers.
 
-This project is still in planning stages.
+### Our First Project
+
+[Siteswap Families](https://open-source-juggling-project.github.io/Siteswap-Families/)
+
+Many other projects are still in the planning stages.
