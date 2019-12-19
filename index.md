@@ -13,4 +13,8 @@ title: Open Source Juggling Project
 
 [Siteswap Families](https://open-source-juggling-project.github.io/Siteswap-Families/)
 
+### Our Second Project
+
+[Jay Gilligan Timeline](https://open-source-juggling-project.github.io/Jay-Gilligan-Timeline/)
+
 Many other projects are still in the planning stages.
